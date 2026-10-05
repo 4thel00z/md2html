@@ -1,16 +1,16 @@
 {
-  "name": "@4thel00z/html2md",
+  "name": "@4thel00z/md2html",
   "version": "0.4.0",
   "description": "Markdown → self-contained HTML (Tailwind v4 + Typography + DaisyUI themes).",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/4thel00z/html2md.git"
+    "url": "git+https://github.com/4thel00z/md2html.git"
   },
   "bugs": {
-    "url": "https://github.com/4thel00z/html2md/issues"
+    "url": "https://github.com/4thel00z/md2html/issues"
   },
-  "homepage": "https://github.com/4thel00z/html2md#readme",
+  "homepage": "https://github.com/4thel00z/md2html#readme",
   "keywords": [
     "markdown",
     "html",

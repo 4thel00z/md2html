@@ -1,18 +1,18 @@
-<h1 align="center">html2md 📝</h1>
+<h1 align="center">md2html 📝</h1>
 
 <p align="center">
   Markdown → self-contained HTML with <strong>Pico-like classless styling</strong> powered by <strong>DaisyUI theme tokens</strong>.
 </p>
 
 <p align="center">
-  <a href="https://github.com/4thel00z/html2md/actions/workflows/ci.yml">
-    <img alt="CI" src="https://github.com/4thel00z/html2md/actions/workflows/ci.yml/badge.svg" />
+  <a href="https://github.com/4thel00z/md2html/actions/workflows/ci.yml">
+    <img alt="CI" src="https://github.com/4thel00z/md2html/actions/workflows/ci.yml/badge.svg" />
   </a>
-  <a href="https://www.npmjs.com/package/%404thel00z%2Fhtml2md">
-    <img alt="npm" src="https://img.shields.io/npm/v/%404thel00z%2Fhtml2md" />
+  <a href="https://www.npmjs.com/package/%404thel00z%2Fmd2html">
+    <img alt="npm" src="https://img.shields.io/npm/v/%404thel00z%2Fmd2html" />
   </a>
   <a href="LICENSE">
-    <img alt="License" src="https://img.shields.io/npm/l/%404thel00z%2Fhtml2md" />
+    <img alt="License" src="https://img.shields.io/npm/l/%404thel00z%2Fmd2html" />
   </a>
 </p>
 
@@ -32,12 +32,12 @@ bun install
 
 ```bash
 # In your React app
-bun add @4thel00z/html2md
+bun add @4thel00z/md2html
 ```
 
 ```tsx
 import React from "react";
-import { Converter } from "@4thel00z/html2md";
+import { Converter } from "@4thel00z/md2html";
 
 export function App() {
   return <Converter />;
@@ -50,7 +50,7 @@ If you want the host app (e.g. your website) to fully control styling, use `unst
 
 ```tsx
 import React from "react";
-import { Converter } from "@4thel00z/html2md";
+import { Converter } from "@4thel00z/md2html";
 
 export function App() {
   return (
@@ -107,7 +107,7 @@ await render("# Hello", { theme: "night", templateUrl: "/my-template.html" });
 ## Library usage
 
 ```ts
-import { render } from "@4thel00z/html2md";
+import { render } from "@4thel00z/md2html";
 
 const fullHtml = await render("# Hello", { theme: "night" });
 ```

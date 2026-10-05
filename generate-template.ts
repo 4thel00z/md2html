@@ -1,6 +1,6 @@
 import { file } from "bun";
 
-// This script is run from the `html2md/` package root.
+// This script is run from the `md2html/` package root.
 const themesCssPath = "./node_modules/daisyui/themes.css";
 const classlessCssPath = "./src/infrastructure/classless.css";
 const outPath = "./src/infrastructure/template.generated.html";

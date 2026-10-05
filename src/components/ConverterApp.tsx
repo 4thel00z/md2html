@@ -21,7 +21,7 @@ export const ConverterApp: React.FC = () => {
           </div>
           <div className="flex items-center gap-4">
             <a
-              href="https://www.npmjs.com/package/@4thel00z/html2md"
+              href="https://www.npmjs.com/package/@4thel00z/md2html"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm font-medium opacity-70 hover:opacity-100 transition-opacity"
@@ -29,7 +29,7 @@ export const ConverterApp: React.FC = () => {
               NPM
             </a>
             <a
-              href="https://github.com/4thel00z/html2md"
+              href="https://github.com/4thel00z/md2html"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm font-medium opacity-70 hover:opacity-100 transition-opacity"
