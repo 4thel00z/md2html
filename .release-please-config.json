@@ -4,7 +4,7 @@
   "packages": {
     ".": {
       "release-type": "node",
-      "package-name": "@4thel00z/html2md",
+      "package-name": "@4thel00z/md2html",
       "changelog-path": "CHANGELOG.md"
     }
   }
