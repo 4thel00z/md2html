@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.1](https://github.com/4thel00z/md2html/compare/md2html-v0.4.0...md2html-v0.4.1) (2026-10-06)
+
+
+### Bug Fixes
+
+* rename package to @4thel00z/md2html ([#7](https://github.com/4thel00z/md2html/issues/7)) ([a950110](https://github.com/4thel00z/md2html/commit/a9501105200ad264670cf5cb852018af2f4b6ef7))
+
 ## [0.4.0](https://github.com/4thel00z/html2md/compare/html2md-v0.3.2...html2md-v0.4.0) (2025-12-23)
 
 
